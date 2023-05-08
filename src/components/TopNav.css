@@ -1,0 +1,32 @@
+.navbaar{
+    background-color: rgb(162, 159, 184);
+    padding: 5px;
+    display: flex;
+    height: 90px;
+}
+
+#logo{
+
+width: 850px;
+text-align: left;
+padding: 20px;
+
+}
+
+.nav1{
+    
+    width: 850px;
+    text-align: right;
+    padding: 30px;
+    
+}
+
+a{
+    text-decoration: none;
+    padding-right: 10px;
+    padding: 20px;
+    color: black;
+}
+a:hover{
+    background-color: rgb(40, 207, 90);
+}

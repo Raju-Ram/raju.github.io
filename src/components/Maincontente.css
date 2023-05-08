@@ -1,0 +1,46 @@
+.maincontente{
+   
+    width: 100%;
+    height:630px;
+    background-image: url("image1.jpg");
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.box1{
+   
+    width: 49%;
+    height: 500px;
+    float: right;
+}
+.box2{
+    
+    width: 49%;
+    height: 500px;
+    float: right;
+    padding-top: 10rem;
+}
+
+.box1>img{
+    height: 600px;
+    /* width: 80%; */
+    padding: 100px;
+    margin-top: -6rem;
+}
+ 
+.box2 h3 {
+    margin-top: 100px;
+}
+
+.box2 p{
+    color:white;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 80px;
+}
+.box2>h1{
+    text-align: left;
+
+}
+
