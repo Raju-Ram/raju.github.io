@@ -23,14 +23,15 @@
 }
 
 .box1>img{
-    height: 600px;
+    height: 779px;
     /* width: 80%; */
-    padding: 100px;
-    margin-top: -6rem;
+    padding: 150px;
+    margin-top: -0rem;
 }
  
 .box2 h3 {
-    margin-top: 100px;
+    font-size: revert;
+
 }
 
 .box2 p{

@@ -1,17 +1,22 @@
 import React from 'react'
 import './TopNav.css'
+import { Link, NavLink } from 'react-router-dom'
 export const TopNav = () => {
   return (
     <>
     <div class='navbaar'>
         <div id='logo'><h2>Hey ! Kumawatraj</h2></div> 
 
-<div class='nav1'>
-    <a href='#'>Home</a>
-    <a href='#'>About</a>
-    <a href='#'>Contect</a>
-    <a href='#'>Tell Me?</a>
-</div>
+<NavLink class='nav1'>
+
+
+    <Link to='/home'>Home</Link>
+    <Link to='/about'>About</Link>
+    <Link to='/Contect'>Contect</Link>
+    <Link to='/experiences'>Experiences</Link>
+    <Link to='/projects'>Projects</Link>
+</NavLink>
+
 
     </div>
     <div class='maincontent'>
