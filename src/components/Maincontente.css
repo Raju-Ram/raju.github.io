@@ -11,22 +11,22 @@
 .box1{
    
     width: 49%;
-    height: 500px;
+    height: 630px;
     float: right;
 }
 .box2{
     
     width: 49%;
-    height: 500px;
+    height: 630px;
     float: right;
     padding-top: 10rem;
 }
 
 .box1>img{
-    height: 779px;
+    height: 859px;
     /* width: 80%; */
     padding: 150px;
-    margin-top: -0rem;
+    margin-top: -5rem;
 }
  
 .box2 h3 {

@@ -16,9 +16,10 @@ import TopNav from './components/TopNav';
 
 function App() {
   return (
+    <Router>
     <div className="App">
    <TopNav/>
-   <Router>
+   
    <Switch>
    <Route path="/Contect" element={<Contect/>}></Route>
    <Route path="/Home" element={<Home/>}></Route>
@@ -26,8 +27,9 @@ function App() {
    <Route path="/Experiences" element={<Experiences/>}></Route>
    <Route path="/Projects" element={<Projects/>}></Route>
    </Switch>
-   </Router>
+  
     </div>
+    </Router>
   );
 }
 
