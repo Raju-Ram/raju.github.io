@@ -1,18 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f105f7e.css",
-    "main.js": "/static/js/main.b78542f9.js",
-    "static/js/787.11d548cc.chunk.js": "/static/js/787.11d548cc.chunk.js",
-    "static/media/myimage.png": "/static/media/myimage.cdb691abf864129860a9.png",
-    "static/media/image1.jpg": "/static/media/image1.b3521e9c9b31e6d385b1.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.8f105f7e.css.map": "/static/css/main.8f105f7e.css.map",
-    "main.b78542f9.js.map": "/static/js/main.b78542f9.js.map",
-    "787.11d548cc.chunk.js.map": "/static/js/787.11d548cc.chunk.js.map"
+    "main.css": "/raju.github.io/static/css/main.bf0828dc.css",
+    "main.js": "/raju.github.io/static/js/main.732fad1b.js",
+    "static/js/787.11d548cc.chunk.js": "/raju.github.io/static/js/787.11d548cc.chunk.js",
+    "static/media/exp9.jpg": "/raju.github.io/static/media/exp9.bf1f61dce28b1cc22b28.jpg",
+    "static/media/exp20.jpeg": "/raju.github.io/static/media/exp20.bed627684c218f272c45.jpeg",
+    "static/media/exp12.jpeg": "/raju.github.io/static/media/exp12.25e3a59ac11fb36565b5.jpeg",
+    "static/media/exp6.jpg": "/raju.github.io/static/media/exp6.5144d871b7c25386fb61.jpg",
+    "static/media/exp10.jpeg": "/raju.github.io/static/media/exp10.73217032daaeae6f35a9.jpeg",
+    "static/media/myimage.png": "/raju.github.io/static/media/myimage.cdb691abf864129860a9.png",
+    "static/media/imh4.png": "/raju.github.io/static/media/imh4.14ac3f31e787d1c8e32d.png",
+    "static/media/exp13.jpeg": "/raju.github.io/static/media/exp13.e1b45be19612ea876627.jpeg",
+    "static/media/exp11.jpeg": "/raju.github.io/static/media/exp11.6d5e9b59785372bb1575.jpeg",
+    "static/media/image1.jpg": "/raju.github.io/static/media/image1.b3521e9c9b31e6d385b1.jpg",
+    "static/media/bk2.jpg": "/raju.github.io/static/media/bk2.6b27429caa66ecd7f5c7.jpg",
+    "static/media/pr3.jpeg": "/raju.github.io/static/media/pr3.37400c91ffe4d0ffd2bd.jpeg",
+    "static/media/exp17.jpeg": "/raju.github.io/static/media/exp17.ecf6b97f2ec61c17cafc.jpeg",
+    "static/media/exp14.jpeg": "/raju.github.io/static/media/exp14.fb0bd926d28acd4c5f24.jpeg",
+    "static/media/exp15.jpeg": "/raju.github.io/static/media/exp15.5e9f3cab9cd1b2e857c1.jpeg",
+    "static/media/exp19.jpeg": "/raju.github.io/static/media/exp19.f83e62c095fbfd29ed3d.jpeg",
+    "static/media/exp22.jpeg": "/raju.github.io/static/media/exp22.0849106600dd5125ba9e.jpeg",
+    "static/media/exp16.jpeg": "/raju.github.io/static/media/exp16.a8f6cd079a1bc2c1fc85.jpeg",
+    "static/media/exp3.jpg": "/raju.github.io/static/media/exp3.1377f108abce30015cd3.jpg",
+    "static/media/rajucv.PDF": "/raju.github.io/static/media/rajucv.f7016aa02e862c1ccbbd.PDF",
+    "static/media/exp18.jpeg": "/raju.github.io/static/media/exp18.33d0aca77c844e4595ff.jpeg",
+    "index.html": "/raju.github.io/index.html",
+    "main.bf0828dc.css.map": "/raju.github.io/static/css/main.bf0828dc.css.map",
+    "main.732fad1b.js.map": "/raju.github.io/static/js/main.732fad1b.js.map",
+    "787.11d548cc.chunk.js.map": "/raju.github.io/static/js/787.11d548cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f105f7e.css",
-    "static/js/main.b78542f9.js"
+    "static/css/main.bf0828dc.css",
+    "static/js/main.732fad1b.js"
   ]
 }
