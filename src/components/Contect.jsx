@@ -19,7 +19,7 @@ export const Contect = () => {
 
 
   return (
-    <div>
+    <div className='conbox'>
       <div className="heading-details">
         <h1>Contact Form</h1>
         <div className="contact-form">

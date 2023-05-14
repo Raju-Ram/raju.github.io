@@ -12,11 +12,13 @@ import raju8 from './MyImage/exp17.jpeg';
 import raju9 from './MyImage/exp18.jpeg';
 import raju10 from './MyImage/exp19.jpeg';
 import raju11 from './MyImage/exp20.jpeg';
+import raju12 from './MyImage/exp22.jpeg';
 // import raju12 from './MyImage/exp21.jpeg';
 
 export const Gallary = () => {
   return (
-    <div><div class="scroll-container">
+    <div className='gallarybox'>
+      <div class="scroll-container">
          
     <img src={raju1}alt="Cinque Terre" width="600" height="400"/>
     <img src={raju2}alt="Forest" width="600" height="400"/>
@@ -47,8 +49,13 @@ export const Gallary = () => {
   </div>
 </div>
 
+<div className='ram'>
+<img src={raju12} alt="Mountains" width="600" height="400"/>
+</div>
+<div className='ram1'>
 
-  
+</div>
+
   </div>
   )
 }
