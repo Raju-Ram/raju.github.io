@@ -10,7 +10,7 @@ export const TopNav = () => {
         <NavLink class='nav1'>
 
 
-          <Link to='/home'>Home</Link>
+          <Link to=''>Home</Link>
           <Link to='/about'>About</Link>
           
           <Link to='/experiences'>Experiences</Link>
