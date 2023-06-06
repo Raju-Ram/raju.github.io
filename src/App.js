@@ -17,12 +17,6 @@ import {Gallary} from './components/Gallary';
 
 
 function App() {
-
-  useEffect(()=>{
-     if(window.location.pathname.includes("raju.github.io")){
-      window.location.href = "/";
-     }
-  }, [])
   return (
     <Router>
     <div className="App">
@@ -32,6 +26,7 @@ function App() {
    <Switch>
    <Route path="/Contect" element={<Contect/>}></Route>
    <Route path="/" element={<Home/>}></Route>
+   <Route path="/raju.github.io" element={<Home/>}></Route>
    <Route path="/About" element={<About/>}></Route>
    <Route path="/Experiences" element={<Experiences/>}></Route>
    <Route path="/Projects" element={<Exprojects/>}></Route>
