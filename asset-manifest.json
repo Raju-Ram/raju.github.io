@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/raju.github.io/static/css/main.bf0828dc.css",
-    "main.js": "/raju.github.io/static/js/main.732fad1b.js",
+    "main.css": "/raju.github.io/static/css/main.e7b4a3c3.css",
+    "main.js": "/raju.github.io/static/js/main.c192738b.js",
     "static/js/787.11d548cc.chunk.js": "/raju.github.io/static/js/787.11d548cc.chunk.js",
     "static/media/exp9.jpg": "/raju.github.io/static/media/exp9.bf1f61dce28b1cc22b28.jpg",
     "static/media/exp20.jpeg": "/raju.github.io/static/media/exp20.bed627684c218f272c45.jpeg",
@@ -25,12 +25,12 @@
     "static/media/rajucv.PDF": "/raju.github.io/static/media/rajucv.f7016aa02e862c1ccbbd.PDF",
     "static/media/exp18.jpeg": "/raju.github.io/static/media/exp18.33d0aca77c844e4595ff.jpeg",
     "index.html": "/raju.github.io/index.html",
-    "main.bf0828dc.css.map": "/raju.github.io/static/css/main.bf0828dc.css.map",
-    "main.732fad1b.js.map": "/raju.github.io/static/js/main.732fad1b.js.map",
+    "main.e7b4a3c3.css.map": "/raju.github.io/static/css/main.e7b4a3c3.css.map",
+    "main.c192738b.js.map": "/raju.github.io/static/js/main.c192738b.js.map",
     "787.11d548cc.chunk.js.map": "/raju.github.io/static/js/787.11d548cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf0828dc.css",
-    "static/js/main.732fad1b.js"
+    "static/css/main.e7b4a3c3.css",
+    "static/js/main.c192738b.js"
   ]
 }
