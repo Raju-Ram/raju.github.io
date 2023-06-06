@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import{
   BrowserRouter as Router,
   Routes as Switch,
@@ -17,6 +17,12 @@ import {Gallary} from './components/Gallary';
 
 
 function App() {
+
+  useEffect(()=>{
+     if(window.location.pathname.includes("raju.github.io")){
+      window.location.href = "/";
+     }
+  }, [])
   return (
     <Router>
     <div className="App">
