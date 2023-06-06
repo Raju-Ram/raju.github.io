@@ -25,10 +25,10 @@ function App() {
    
    <Switch>
    <Route path="/Contect" element={<Contect/>}></Route>
-   <Route path="" element={<Home/>}></Route>
+   <Route path="/" element={<Home/>}></Route>
    <Route path="/About" element={<About/>}></Route>
    <Route path="/Experiences" element={<Experiences/>}></Route>
-   <Route path="/Projects" element={<Projects/>}></Route>
+   <Route path="/Projects" element={<Exprojects/>}></Route>
    <Route path="/Exprojects" element={<Exprojects/>}></Route>
    <Route path="/Gallary" element={<Gallary/>}></Route>
    </Switch>

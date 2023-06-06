@@ -40,3 +40,36 @@ font-family: serif;
 a:hover{
   color: rgb(204, 16, 16);
 }
+
+
+
+
+@media screen and (max-width:320px)and (max-height:480px) {
+
+    .navbaar {
+        width: 94%;
+        font-size: 48%;
+        height: 11%;
+        padding: 0px;
+    }
+    
+    #logo{
+        font-size: 7px;
+        margin-top: -12px;
+    }
+    
+    
+    
+ 
+    
+    a{
+        font-size: 6px;
+        padding: 3px;
+        margin: 4px;
+        margin-top: 28px;
+    }
+  
+    
+    
+    
+}
