@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/raju.github.io/static/css/main.0b6b2e47.css",
-    "main.js": "/raju.github.io/static/js/main.a700e090.js",
+    "main.js": "/raju.github.io/static/js/main.e2255253.js",
     "static/js/787.11d548cc.chunk.js": "/raju.github.io/static/js/787.11d548cc.chunk.js",
     "static/media/exp9.jpg": "/raju.github.io/static/media/exp9.bf1f61dce28b1cc22b28.jpg",
     "static/media/exp20.jpeg": "/raju.github.io/static/media/exp20.bed627684c218f272c45.jpeg",
     "static/media/exp12.jpeg": "/raju.github.io/static/media/exp12.25e3a59ac11fb36565b5.jpeg",
     "static/media/exp6.jpg": "/raju.github.io/static/media/exp6.5144d871b7c25386fb61.jpg",
-    "static/media/rajucv.pdf": "/raju.github.io/static/media/rajucv.baaca27d690ebb6ba1b9.pdf",
+    "static/media/rajucv.pdf": "/raju.github.io/static/media/rajucv.f16a43220a1d4cb95e7a.pdf",
     "static/media/exp10.jpeg": "/raju.github.io/static/media/exp10.73217032daaeae6f35a9.jpeg",
     "static/media/myimage.png": "/raju.github.io/static/media/myimage.cdb691abf864129860a9.png",
     "static/media/imh4.png": "/raju.github.io/static/media/imh4.14ac3f31e787d1c8e32d.png",
@@ -26,11 +26,11 @@
     "static/media/exp18.jpeg": "/raju.github.io/static/media/exp18.33d0aca77c844e4595ff.jpeg",
     "index.html": "/raju.github.io/index.html",
     "main.0b6b2e47.css.map": "/raju.github.io/static/css/main.0b6b2e47.css.map",
-    "main.a700e090.js.map": "/raju.github.io/static/js/main.a700e090.js.map",
+    "main.e2255253.js.map": "/raju.github.io/static/js/main.e2255253.js.map",
     "787.11d548cc.chunk.js.map": "/raju.github.io/static/js/787.11d548cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b6b2e47.css",
-    "static/js/main.a700e090.js"
+    "static/js/main.e2255253.js"
   ]
 }
