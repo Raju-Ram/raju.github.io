@@ -82,7 +82,7 @@ export const About = () => {
 
                                 <a href={RajuCvpdf} target="_blank" rel='sdfghjk' download="rajudownlode">
                                         <button className='button12' >
-                                                Downlode CV
+                                                Downlode Resume
                                         </button>
                                 </a>
 
@@ -91,7 +91,7 @@ export const About = () => {
 
                                 <div class="section full-height">
                                         <input class="modal-btn" type="checkbox" id="modal-btn" name="modal-btn" />
-                                        <label for="modal-btn">View CV <i class="uil uil-expand-arrows"></i></label>
+                                        <label for="modal-btn">View Resume<i class="uil uil-expand-arrows"></i></label>
                                         <div class="modal">
                                                 <div class="modal-wrap" >
                                                 <embed src={RajuCvpdf} type="application/pdf" width="100%" height="700px" />

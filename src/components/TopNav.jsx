@@ -16,7 +16,7 @@ export const TopNav = () => {
           <Link to='/experiences'>Experiences</Link>
           <Link to='/Gallary'>Gallary</Link>
           <Link to='/projects'>Projects</Link>
-          <Link to='/Contect'>Say hyy!</Link>
+          <Link to='/Contect'>Contact</Link>
         </NavLink>
 
 
